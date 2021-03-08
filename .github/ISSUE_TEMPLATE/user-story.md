@@ -1,19 +1,19 @@
 ---
 name: User story
 about: User stories describe functionality desired by a (group of) stakeholder(s).
-title: As ___ I want ___
+title: Als ___ wil ik ___
 labels: user-story
 assignees: ''
 ---
 
-So I can ___
+Zodat ik ___
 
-###Describe the solution you'd like
-A clear and concise description of what you want to happen.
+###Voorgestelde oplossing
+Een heldere en compacte beschrijving van wat je graag wil hebben.
 
-###Additional context
-Add any other context or screenshots about the user story here.
+###Aanvullende context
+Voeg overige context of screenshots toe over de user story.
 
-- [ ] The description is clear to the team
-- [ ] The right labels are selected
-- [ ] Tasks that are needed for the user story are described
+- [ ] De beschrijving is helder voor het team
+- [ ] De correcte labels zijn gekoppeld
+- [ ] De taken die bij de user story horen zijn beschreven

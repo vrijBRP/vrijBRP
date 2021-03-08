@@ -6,20 +6,20 @@ labels: bug
 assignees: ''
 ---
 
-###Describe the bug
-A clear and concise description of the bug.
+###Beschrijf de bug
+Een heldere, compacte beschrijving van de bug
 
-###Reproduction steps
-The steps to reproduce the issue
-1. Click on ...
-2. Go to ...
-3. See error
+###Reproductiestappen
+De stappen die nodig zijn om de bug te reproduceren
+1. Klik op ...
+2. Ga naar ...
+3. Zie error
 
 ###Expected behaviour
-A clear and concise description of what you expected to happen.
+Een heldere, compacte beschrijving van wat je verwacht dat er gebeurt.
 
 ###Screenshots
-If applicable, add screenshots to help explain your problem.
+Indien van toepassing: plaats enkele screenshots van het probleem
 
-###Additional context
-Add any other ocntext about the problem here.
+###Aanvullende context
+Plaats hier de overige context over het probleem.
