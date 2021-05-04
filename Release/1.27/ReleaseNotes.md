@@ -3,7 +3,7 @@
 |   | Release notes                                                                                             |   |
 |   | vrijBRP                                                                                                   |   |
 |   | 1.27 (en PROBEV 04.3.13.04)                                                                               |   |
-|   |                                                                                                           |   |
+|   | [Webinar](https://procura.webinargeek.com/watch/replay/936182/1c3d02609207eecf1c777eae9916768e/)                                                                                                           |   |
 |   | [MS Word](ReleaseNotes.docx) [PDF](ReleaseNotes.pdf)                                                      |   |
 |   | ![Afbeelding met tekst Automatisch gegenereerde beschrijving](media/08241c61e56e1ae1e479cc5675cc5d03.png) |   |
 
