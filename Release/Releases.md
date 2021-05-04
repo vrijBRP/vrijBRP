@@ -2,6 +2,6 @@
 
 Voor aankomende releases verwijzen we naar de [ROADMAP](ROADMAP.md)
 
-## 00.00.01 (2021-02-01)
+## 1.27 (2021-05-01)
 
-- Lege repository met slechts en alleen de documentatie
+- Zie [Release Notes](1.27/ReleaseNotes.md).
