@@ -44,7 +44,7 @@ localisation:
     - en
 dependsOn:
   open:
-    - name: vrij-brp/vrij-brp
+    - name: vrij-brp/vrijbrp
 installations:
   - type: helm
     url: "https://raw.githubusercontent.com/vrijBRP/kubernetes/master/"
