@@ -1,0 +1,50 @@
+publiccodeYmlVersion: "0.2"
+name: vrijBRP
+url: "https://github.com/vrijBRP/vrijBRP"
+softwareVersion: 1.27
+releaseDate: "2021-05-06"
+logo: "https://vrijbrp.nl/wp-content/uploads/2020/10/VRIJBRP_LOGO_SOLID.svg"
+platforms:
+  - web
+categories:
+  - it-development
+usedBy:
+  - Gemeente Haarlen
+  - Gemeente Zoetermeer
+  - Gemeente Maastricht
+roadmap: "https://github.com/vrijBRP/vrijBRP/blob/master/ROADMAP.md"
+developmentStatus: development
+softwareType: standalone/web
+description:
+  nl:
+    localisedName: vrijBRP
+    genericName: vrijBRP
+    shortDescription: >-
+      Dit is een open-source applicatie die gebruikt wordt door gemeenten om de Basisregistratie Personen (BRP) bij te houden.
+    longDescription: >-
+      Dit is een open-source applicatie die gebruikt wordt door gemeenten om de Basisregistratie Personen (BRP) bij te houden.
+    documentation: "https://github.com/vrijBRP/vrijBRP/blob/master/README.md"
+    features:
+      - Een platform voor iedereen
+legal:
+  license: EUPL-1.2
+  mainCopyrightOwner: vrijBRP
+  repoOwner: vrijBRP
+maintenance:
+  type: internal
+  contacts:
+    - name: H.Merijn Brand
+      email: merijn.brand@procura.nl
+    - name: Frits Janssen
+      email: frits.janssen@procura.nl
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - nl
+    - en
+dependsOn:
+  open:
+    - name: vrij-brp/vrij-brp
+installations:
+  - type: helm
+    url: "https://raw.githubusercontent.com/vrijBRP/kubernetes/master/"
