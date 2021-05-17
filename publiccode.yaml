@@ -45,6 +45,7 @@ localisation:
 dependsOn:
   open:
     - name: vrij-brp/vrijbrp
+    - name: vrij-brp/vrijbrp-postgres
 installations:
   - type: helm
     url: "https://raw.githubusercontent.com/vrijBRP/kubernetes/master/"
