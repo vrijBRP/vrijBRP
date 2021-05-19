@@ -7,6 +7,8 @@ de Basisregistratie Personen (BRP) bij te houden.
 
 De applicatie is ontwikkeld in Java door Procura.
 
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/vrijbrp)](https://artifacthub.io/packages/search?repo=vrijbrp)
+
 ## COPYRIGHT & LICENSE
 
 Copyright 2021 - 2021 Procura B.V.
