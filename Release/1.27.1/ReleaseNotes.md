@@ -4,6 +4,7 @@
 |   | vrijBRP                                                                                                   |   |
 |   | 1.27.1                                                                                                    |   |
 |   |                                                                                                           |   |
+|   | [MS Word](ReleaseNotes.docx) [PDF](ReleaseNotes.pdf)                                                      |   |
 |   | ![Afbeelding met tekst Automatisch gegenereerde beschrijving](media/08241c61e56e1ae1e479cc5675cc5d03.png) |   |
 
 Inhoudsopgave
