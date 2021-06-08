@@ -97,7 +97,7 @@ de komende tijd (tenzij anders wordt bepaald) gewerkt aan:
 
 ## Releases
 
-[Alle release-documenten](Release/Releases.md) is nu (nog) leeg.
+[Alle release-documenten](Release/Releases.md).
 
 ## Onderdelen
 
