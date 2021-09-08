@@ -84,7 +84,7 @@ terecht op info@vrijbrp.nl
 
 ## ROADMAP
 
-[ROADMAP](ROADMAP.md) is nu (nog) leeg.
+[ROADMAP](ROADMAP.md)
 
 De roadmap zal straks door de community worden bepaald. Vooralsnog wordt
 de komende tijd (tenzij anders wordt bepaald) gewerkt aan:
