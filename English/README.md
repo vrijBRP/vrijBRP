@@ -76,10 +76,9 @@ please contact info@vrijbrp.nl.
 
 ## ROADMAP
 
-[ROADMAP](ROADMAP.md) is empty (for now).
+[ROADMAP](ROADMAP.md)
 
-The roadmap will eventually be determined by the community. For now
-(unless otherwise specified), we will be working on:
+The roadmap will eventually be determined by the community. For now, we are working on:
 
 - SaaS implementation
 - APIs for e-services
@@ -90,7 +89,7 @@ The roadmap will eventually be determined by the community. For now
 
 ## Releases
 
-[All release-documents](../Release/Releases.md) is empty (for now).
+[All release-documents](../Release/Releases.md)
 
 ## Components
 
