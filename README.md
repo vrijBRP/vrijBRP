@@ -87,7 +87,7 @@ terecht op info@vrijbrp.nl
 [ROADMAP](ROADMAP.md)
 
 De roadmap zal straks door de community worden bepaald. Vooralsnog wordt
-de komende tijd (tenzij anders wordt bepaald) gewerkt aan:
+de komende tijd o.a. gewerkt aan:
 
 - SaaS implementatie
 - API's voor e-dienstverlening
