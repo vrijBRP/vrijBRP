@@ -7,7 +7,7 @@ It is developed in Java by Procura.
 
 ## COPYRIGHT & LICENSE
 
-Copyright 2021 - 2021 Procura B.V.
+Copyright 2021 - 2022 Procura B.V.
 
 Licensed under [the EUPL, version 1.2](../LICENSE.md)
 
