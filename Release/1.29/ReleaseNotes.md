@@ -6,7 +6,7 @@
 |   | [MS Word](ReleaseNotes.docx) [PDF](ReleaseNotes.pdf)                                                      |   |
 |   | ![Afbeelding met tekst Automatisch gegenereerde beschrijving](media/image1.png) |   |
 
-Inhoudsopgave {#inhoudsopgave .Kop2}
+Inhoudsopgave
 =============
 
 [1. Inleiding 3](#inleiding)
