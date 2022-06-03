@@ -11,7 +11,7 @@ De applicatie is ontwikkeld in Java door Procura.
 
 ## COPYRIGHT & LICENSE
 
-Copyright 2021 - 2021 Procura B.V.
+Copyright 2021 - 2022 Procura B.V.
 
 In licentie gegeven krachtens [de EUPL, versie 1.2](LICENSE.md)
 
