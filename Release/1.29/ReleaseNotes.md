@@ -346,7 +346,7 @@ Voorbeelden hiervan:
 2.  E-dienst verhuizen: leverancier = Kodision, zaaktype = Verhuizing
 
 Verder moet in het profiel van een gebruiker in ieder geval "inzage" en
-"muteren" als acte zijn gekoppeld.
+"muteren" als actie zijn gekoppeld.
 
 ![](media/image10.png)
 
@@ -471,9 +471,9 @@ In de applicatie is het vervolgens hier te vinden:
 
 Het getoonde scherm geeft ook meer mogelijkheden voor het zoeken en
 goedkeuren van mutaties. Er kan van een andere persoon de mutatie worden
-goedgekeurd door een andere a-nummer in te voeren (selecteer "anders" en
-vul een a-nummer in). Er kan op dag worden gezocht en goedgekeurd
-(zonder zoeken van een persoon), etc.
+goedgekeurd door een andere a-nummer in te voeren (selecteer "anders" bij
+de rubriek "persoon" en vul een a-nummer in). Er kan op dag worden gezocht 
+en goedgekeurd (zonder zoeken van een persoon), etc.
 
 **Zakenregister, meer inzicht in problemen bij zaakverwerking**
 
